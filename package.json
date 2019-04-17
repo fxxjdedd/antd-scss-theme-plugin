@@ -37,7 +37,7 @@
   "dependencies": {
     "less": "^2.3.7",
     "loader-utils": "^1.1.0",
-    "scss-to-json": "^2.0.0"
+    "scss-to-json": "git+https://github.com/fxxjdedd/scss-to-json.git"
   },
   "peerDependencies": {
     "antd": "^3.2.0",
